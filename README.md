@@ -16,20 +16,36 @@ Mon cite va comporter 5 pages HTML(index.html, freelances.html, tarifs.html, abo
 **Structure de fichiers rigoureuse** (voir arborescence ci-dessous)
 NOM-Prenom-AfriTalent/
 ├── index.html
+
 ├── freelances.html
+
 ├── tarifs.html
+
 ├── about.html
+
 ├── contact.html
+
 ├── css/
+
 │ └── style.css
+
 ├── js/
+
 │ └── main.js
+
 ├── images/
+
 │ └── (vos images, logos, avatars)
+
 ├── docs/
+
 │ └── NOM_Prenom_Presentation.pptx
+
 ├── README.md
+
 └── .gitignore
+
+
 **HTML5 sémantique** : <header>, <nav>, <main>, <section>, <article>, <aside>, <footer>
 **CSS externe** : un fichier style.css principal. Pas de CSS inline dans le HTML
 **Variables CSS** : définir et utiliser au minimum 6 variables dans :root
