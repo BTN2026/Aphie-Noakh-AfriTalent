@@ -1,17 +1,7 @@
 ###Aphie-Noakh-AfriTalent##
 AfriTalent Projet S2 L1CS
 -------------------------------------------------------------------------------------------------------------------------------
-C'est un projet du  marché du freelance tech en Afrique qui connaît une croissance explosive. De plus en plus de développeurs, designers et créateurs de contenu cherchent une plateforme fiable pour proposer leurs services et trouver des
-missions. Je suis donc chargée de concevoir et développer le site vitrine complet d'une plateforme fictive de mise en
-relation entre freelances tech et entreprises, nommée « AfriTalent ». Ce site doit présenter la plateforme, ses
-fonctionnalités, ses tarifs, des profils de freelances, et convaincre les visiteurs (freelances ET entreprises) de s'inscrire. À l'issue de ce projet, Je dois etre capable de  démontrer ma maîtrise de :
-**HTML5** — Structure sémantique rigoureuse, hiérarchie logique, accessibilité de base (attributs alt, arialabel, rôles)
-**CSS3** — Mise en page avancée (Flexbox, Grid, Bento Grid), animations CSS, transitions, responsive design,
-variables CSS (custom properties), typographie moderne (Google Fonts)
-**Bootstrap 5** — Utilisation du système de grille, des composants (navbar, cards, carousel, accordion, modal),
-personnalisation des variables Bootstrap
-**JavaScript (vanilla)** — Manipulation du DOM, gestion d'événements, validation de formulaire côté client,
-interactivité dynamique (filtres, dark mode, scroll animations, compteurs animés)
+AfriTalent est un site vitrine moderne conçu pour une plateforme fictive de mise en relation entre les talents technologiques africains (développeurs, designers, experts Data/IA) et les entreprises du monde entier. Le projet a été réalisé dans le cadre du Semestre 2 pour démontrer la maîtrise des technologies web fondamentales, avec une interface responsive adoptant les tendances de 2026 comme le design Bento Grid.
 Mon cite va comporter 5 pages HTML(index.html, freelances.html, tarifs.html, about.html et contact.html) liées entre elles par une navigation cohérente et conçu comme suit:
 **Structure de fichiers rigoureuse** (voir arborescence ci-dessous)
 
