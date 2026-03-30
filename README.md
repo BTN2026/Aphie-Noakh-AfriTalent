@@ -14,6 +14,7 @@ personnalisation des variables Bootstrap
 interactivité dynamique (filtres, dark mode, scroll animations, compteurs animés)
 Mon cite va comporter 5 pages HTML(index.html, freelances.html, tarifs.html, about.html et contact.html) liées entre elles par une navigation cohérente et conçu comme suit:
 **Structure de fichiers rigoureuse** (voir arborescence ci-dessous)
+bash```
 NOM-Prenom-AfriTalent/
 ├── index.html
 
@@ -44,7 +45,7 @@ NOM-Prenom-AfriTalent/
 ├── README.md
 
 └── .gitignore
-
+```
 
 **HTML5 sémantique** : <header>, <nav>, <main>, <section>, <article>, <aside>, <footer>
 **CSS externe** : un fichier style.css principal. Pas de CSS inline dans le HTML
