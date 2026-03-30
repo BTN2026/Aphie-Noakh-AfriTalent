@@ -45,7 +45,6 @@ NOM-Prenom-AfriTalent/
 ├── README.md
 
 └── .gitignore
-```
 
 **HTML5 sémantique** : <header>, <nav>, <main>, <section>, <article>, <aside>, <footer>
 **CSS externe** : un fichier style.css principal. Pas de CSS inline dans le HTML
