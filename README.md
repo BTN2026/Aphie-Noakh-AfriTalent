@@ -17,6 +17,7 @@ Mon cite va comporter 5 pages HTML(index.html, freelances.html, tarifs.html, abo
 
 
 NOM-Prenom-AfriTalent/
+
 ├── index.html
 
 ├── freelances.html
