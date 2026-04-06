@@ -37,15 +37,30 @@ NOM-Prenom-AfriTalent/
 ├── README.md
 
 └── .gitignore
+**Technologies Utilisées**
 
-**HTML5 sémantique** : <header>, <nav>, <main>, <section>, <article>, <aside>, <footer>
-**CSS externe** : un fichier style.css principal. Pas de CSS inline dans le HTML
-**Variables CSS** : définir et utiliser au minimum 6 variables dans :root
-**Bootstrap 5 via CDN** : navbar, grid, cards, carousel, accordion, au moins 1 modal
-Bootstrap Icons ou Font Awesome pour toutes les icônes
-**Google Fonts** : au minimum 2 polices (titres + corps)
-**Responsive design** : fonctionnel sur mobile (375px), tablette (768px) et desktop (1200px+)
-**Palette de couleurs** : maximum 5 couleurs principales
-**Commentaires** : HTML, CSS et JavaScript commentés clairement
-**Accessibilité** : attributs alt sur toutes les images, contrastes suffisants, navigation clavier
+•	HTML5 : Structure sémantique et accessibilité (ARIA, rôles).
+
+•	CSS3 : Layouts avancés (Flexbox, Grid), variables natives et animations personnalisées.
+
+•	Bootstrap 5 : Système de grille, composants interactifs (Navbar, Cards, Modals, Accordions).
+
+•	JavaScript (Vanilla) : Manipulation du DOM, gestion d'événements et stockage local sans frameworks externes.
+
+•	Git & GitHub : Versionnage rigoureux et déploiement via GitHub Pages.
+
+**Fonctionnalités Principales**
+
+•	Mode Sombre (Dark Mode) : Toggle interactif avec persistance du choix via localStorage.
+
+•	Interface Bento Grid : Mise en page modulaire et asymétrique pour les sections clés.
+
+•	Filtrage Dynamique : Système de tri des profils de freelances par catégorie sans rechargement de page.
+
+•	Animations au Scroll : Compteurs statistiques animés et apparitions (fade-in) des sections via IntersectionObserver.
+
+•	Validation de Formulaire : Contrôle complet côté client (Regex email, longueur de message) avec retours visuels.
+
+•	Navigation Adaptative : Navbar collante (sticky) qui change d'apparence au défilement.
+
 
